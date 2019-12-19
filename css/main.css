@@ -632,7 +632,7 @@ input[type="search"]:focus,
 .testimony-sect {
   display: flex;
   height: 600px;
-  background-image: url("../assets/testimony.jpg");
+  background-image: url("https://github.com/sowasred/furnituretest/blob/master/assets/subscribe.JPG");
   background-size: cover;
   background-repeat: no-repeat;
 }
