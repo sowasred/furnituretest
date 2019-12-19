@@ -324,7 +324,7 @@ input[type="search"]:focus,
 .minimalist-sect {
   display: flex;
   margin-top: 5vh;
-  background-image: url("https://github.com/sowasred/furnituretest/blob/master/assets/subscribe.JPG");
+  background-image: url("../assets/bg-right.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -632,7 +632,7 @@ input[type="search"]:focus,
 .testimony-sect {
   display: flex;
   height: 600px;
-  background-image: url("https://github.com/sowasred/furnituretest/blob/master/assets/subscribe.JPG");
+  background-image: url("../assets/testimony.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -718,7 +718,7 @@ input[type="search"]:focus,
   margin-top: 8vh;
   width: 70vw;
   height: 43vh;
-  background-image: url("../assets/subscribe.jpg");
+  background-image: url("../assets/subscribe.JPG");
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 20px;
