@@ -235,6 +235,9 @@ input[type="search"]:focus,
 .menu-item:hover .sub-cats-wrapper {
   visibility: visible;
 }
+.sign {
+  color: navy;
+}
 /* Menu Header Style Finishes Here */
 
 /* Carousel Style Starts Here */
@@ -279,6 +282,9 @@ input[type="search"]:focus,
   padding: 0.5em;
   border-radius: 4px;
   cursor: pointer;
+}
+.shop-now > a {
+  color: navy;
 }
 .carousel-indicators li {
   width: 12px;
@@ -379,6 +385,7 @@ input[type="search"]:focus,
   width: 170px;
   background: #fff;
   padding: 0.5em;
+  color: navy;
   border-radius: 4px;
   cursor: pointer;
   border: solid 1px rgba(211, 200, 200, 0.4);
